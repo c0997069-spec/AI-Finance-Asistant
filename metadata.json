@@ -1,0 +1,6 @@
+{
+  "name": "VTuber Financial Assistant",
+  "description": "Asisten keuangan dan investasi pribadi interaktif dengan VTuber 2D, analisis saham TradingView, dan dukungan suara personal.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
